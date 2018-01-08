@@ -30,7 +30,7 @@ Completed user stories:
 
 Here's a walkthrough of implemented user stories:
 
-![](gif/1231.gif) 
+![](1231.gif) 
 
 
 
